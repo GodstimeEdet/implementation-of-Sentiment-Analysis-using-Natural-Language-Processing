@@ -3,6 +3,7 @@ The increasing quantity of false information circulating on its platform worries
 
 
 
+
 **Lowercase** refers to the process of converting all letters in a text to their lowercase form. Lowercasing is a common preprocessing step applied to text data for various NLP tasks. It helps in standardizing text by ensuring that words are treated consistently regardless of their original casing, thereby reducing the vocabulary size and improving model performance.
 
 Some reasons why lowercase is commonly used in NLP are Normalization, Reducing Vocabulary Size, Improved Generalization and Consistency…
